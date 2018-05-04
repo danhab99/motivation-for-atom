@@ -1,26 +1,17 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle motivation",
-        "command": "motivation:toggle"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "motivation",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "motivation:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"menu": [{
+		"label": "Packages",
+		"submenu": [{
+			"label": "motivation",
+			"submenu": [{
+					"label": "Toggle",
+					"command": "motivation:toggle"
+				},
+				{
+					"label": "Motivate me",
+					"command": "motivation:give"
+				}
+			]
+		}]
+	}]
 }
