@@ -1,10 +1,10 @@
 {
 	"name": "motivation",
 	"main": "./lib/motivation",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "A short description of your package",
-	"keywords": [],
-	"repository": "https://github.com/atom/motivation",
+	"keywords": ["motivation", "self help", "fun"],
+	"repository": "https://github.com/danhab99/motivation-for-atom",
 	"license": "MIT",
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
