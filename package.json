@@ -1,17 +1,17 @@
 {
-	"name": "motivation",
-	"main": "./lib/motivation",
-	"version": "2.0.0",
-	"description": "Just a simple plugin that shows motivational notifications as you wish.",
-	"keywords": [
-		"motivation",
-		"self help",
-		"fun"
-	],
-	"repository": "https://github.com/danhab99/motivation-for-atom",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {}
+  "name": "motivation",
+  "main": "./lib/motivation",
+  "version": "2.1.0",
+  "description": "Just a simple plugin that shows motivational notifications as you wish.",
+  "keywords": [
+    "motivation",
+    "self help",
+    "fun"
+  ],
+  "repository": "https://github.com/danhab99/motivation-for-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
