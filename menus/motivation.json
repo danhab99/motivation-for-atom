@@ -2,7 +2,7 @@
 	"menu": [{
 		"label": "Packages",
 		"submenu": [{
-			"label": "motivation",
+			"label": "Motivation",
 			"submenu": [{
 					"label": "Toggle",
 					"command": "motivation:toggle"
